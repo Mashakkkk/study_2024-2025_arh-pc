@@ -51,7 +51,7 @@ biblatexoptions:
   - backend=biber
   - hyperref=auto
   - language=auto
-  - autolang=other*
+  - autolang=other
   - citestyle=gost-numeric
 ## Pandoc-crossref LaTeX customization
 figureTitle: "Рис."
